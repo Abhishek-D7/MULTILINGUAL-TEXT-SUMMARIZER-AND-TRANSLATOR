@@ -8,5 +8,5 @@ Summarization: Efficiently summarize text in different languages.
 Translation: Translate text between English, French, German, and Hindi.
 User-Friendly Interface: Intuitive and easy-to-use interface designed with Streamlit.
 
-Check out the project here: https://lnkd.in/gerquHGE
+Check out the project here: [https://lnkd.in/gerquHGE](https://huggingface.co/spaces/Abhishek-D7/MULTILINGUAL-TEXT-SUMMARIZER-AND-TRANSLATOR/tree/main)
 
